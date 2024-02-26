@@ -25,10 +25,11 @@ YouTube Whisper Transcriber is a Python script that allows users to download aud
     ```bash
    python -m venv venv
 
+3. Activate the Virtual Environment:
    ```bash
    .\venv\Scripts\activate
     
-3. Install the required dependencies:
+4. Install the required dependencies:
 
    ```bash
    pip install openai-whisper pytube
