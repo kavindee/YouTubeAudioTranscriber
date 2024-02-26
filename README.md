@@ -19,3 +19,7 @@ YouTube Whisper Transcriber is a Python script that allows users to download aud
 
    ```bash
    git clone https://github.com/your-username/YouTubeWhisperTranscriber.git
+
+2. create environment
+    ```bash
+   python -m venv venv
