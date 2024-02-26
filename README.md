@@ -1,5 +1,6 @@
 # YouTube Whisper Transcriber
 
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
 ![GitHub](https://img.shields.io/github/license/your-username/YouTubeWhisperTranscriber)
 ![GitHub stars](https://img.shields.io/github/stars/your-username/YouTubeWhisperTranscriber?style=social)
 
@@ -23,3 +24,11 @@ YouTube Whisper Transcriber is a Python script that allows users to download aud
 2. create environment
     ```bash
    python -m venv venv
+
+   ```bash
+   .\venv\Scripts\activate
+    
+3. Install the required dependencies:
+
+   ```bash
+   pip install openai-whisper pytube
